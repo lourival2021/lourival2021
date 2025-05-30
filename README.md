@@ -55,10 +55,10 @@ Atualmente, trabalho em dois projetos principais:
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos em Destaque (Próprio)
 
 - ⚙️ [**PlusPlan – PMOC Open Source**](https://github.com/lourival2021/PlusPlan) *(em desenvolvimento)*
-- 📊 [**OrcaServi – Sistema de Orçamentos**](https://github.com/lourival2021/OrcaServi) *(em desenvolvimento)*
+- 📊 [**OrcaServi – Sistema de Orçamento de Obras**](https://github.com/lourival2021/OrcaServi) *(em desenvolvimento)*
 
 ---
 

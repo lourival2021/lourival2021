@@ -1,5 +1,3 @@
-## Lourival 👋
-
 <h1 align="center">👋 Olá, sou Lourival!</h1>
 
 <p align="center">
@@ -52,14 +50,8 @@ Atualmente, trabalho em dois projetos principais:
 ### 🔥 Sequência de Contribuições
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lourival2021&theme=transparent&background=000&border=30A3DC&stroke=E94D5F&ring=30A3DC&fire=E94D5F&currStreakNum=FFF&sideNums=FFF&currStreakLabel=FFF&sideLabels=FFF)
 
-### 🛠️ Linguagens Mais Usadas
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lourival2021&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&langs_count=8&count_private=true)
-
 ### 📈 Atividade Recente
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=lourival2021&theme=react-dark&bg_color=000&color=FFF&line=30A3DC&point=E94D5F&area=true&hide_border=false&days=365)
-
-### 🌟 Contribuições no Último Ano
-![GitHub Contributions](https://ghchart.rshah.org/30A3DC/lourival2021)
 
 ### 🏆 Conquistas
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lourival2021&theme=onedark&no-frame=true&margin-w=5&column=6)

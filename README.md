@@ -50,9 +50,6 @@ Atualmente, trabalho em dois projetos principais:
 ### 🔥 Sequência de Contribuições
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lourival2021&theme=transparent&background=000&border=30A3DC&stroke=E94D5F&ring=30A3DC&fire=E94D5F&currStreakNum=FFF&sideNums=FFF&currStreakLabel=FFF&sideLabels=FFF)
 
-### 📈 Atividade Recente
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=lourival2021&theme=react-dark&bg_color=000&color=FFF&line=30A3DC&point=E94D5F&area=true&hide_border=false&days=365)
-
 ### 🏆 Conquistas
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lourival2021&theme=onedark&no-frame=true&margin-w=5&column=6)
 

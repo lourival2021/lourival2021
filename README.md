@@ -13,6 +13,7 @@ Em transição para a área de desenvolvimento backend com **Python** e **Django
 Atualmente, trabalho em dois projetos principais:
 - ⚙️ **PlusPlan** – Sistema open source para **Plano de Manutenção, Operação e Controle (PMOC)**.
 - 📊 **OrcaServi** – Sistema próprio de **Orçamentos de Obras**, integrando bases como **SINAPI, ORSE, DNIT e outras**, com cálculos de composições e manipulação de dados utilizando **Python, Django e Pandas**.
+- **Site desenvolvido** - https://www.engearfrio.com.br
 
 🧠 Atualmente curso **Pós-Graduação em Desenvolvimento de Sistemas com Python**, com foco em consolidar meus conhecimentos e construir minha jornada como desenvolvedor backend.
 

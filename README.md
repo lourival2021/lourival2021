@@ -8,11 +8,12 @@
 
 ## 🚀 Sobre Mim
 
-Em transição para a área de desenvolvimento backend com **Python** e **Django**. Estou em processo de aprendizado, desenvolvendo projetos próprios e aprimorando minhas habilidades em programação, automação e desenvolvimento de sistemas.
+Em transição para a área de desenvolvimento backend com **Python** e **Django**. Em processo de aprendizado, desenvolvendo projetos e aprimorando minhas habilidades em automação e desenvolvimento de sistemas.
 
-Atualmente, trabalho em dois projetos principais:
+Atualmente, trabalho em três projetos principais:
 - ⚙️ **PlusPlan** – Sistema open source para **Plano de Manutenção, Operação e Controle (PMOC)**.
 - 📊 **OrcaServi** – Sistema próprio de **Orçamentos de Obras**, integrando bases como **SINAPI, ORSE, DNIT e outras**, com cálculos de composições e manipulação de dados utilizando **Python, Django e Pandas**.
+- ⚙️ **LCE** – Sistema particular que tem o objetivo de ajudar médicos e profissionais da saúde a passarem laudos cardiologicos**.
 - **Site desenvolvido** - https://www.engearfrio.com.br
 
 🧠 Atualmente curso **Pós-Graduação em Desenvolvimento de Sistemas com Python**, com foco em consolidar meus conhecimentos e construir minha jornada como desenvolvedor backend.
@@ -60,6 +61,7 @@ Atualmente, trabalho em dois projetos principais:
 
 - ⚙️ [**PlusPlan – PMOC Open Source**](https://github.com/lourival2021/PlusPlan) *(em desenvolvimento)*
 - 📊 [**OrcaServi – Sistema de Orçamento de Obras**](https://github.com/lourival2021/OrcaServi) *(em desenvolvimento)*
+- [**LCE – Laudo Cardiologico Especializado**](https://github.com/Vortice-TI/LCE) *(em desenvolvimento)*
 
 ---
 

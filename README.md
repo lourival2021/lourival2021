@@ -1,22 +1,20 @@
 <h1 align="center">👋 Olá, sou Lourival!</h1>
 
 <p align="center">
-💻 Engenheiro Civil | Estudante de desenvolvimento de sistema com Python | Apaixonado por tecnologia
+💻 Engenheiro Civil | Técnico em Informática | Apaixonado por Tecnologia
 </p>
 
 ---
 
 ## 🚀 Sobre Mim
 
-Em transição para a área de desenvolvimento backend com **Python** e **Django**. Em processo de aprendizado, desenvolvendo projetos e aprimorando minhas habilidades em automação e desenvolvimento de sistemas.
+Em processo de aprendizado, desenvolvendo projetos e aprimorando minhas habilidades em automação e desenvolvimento de sistemas.
 
 Atualmente, trabalho em três projetos principais:
 - ⚙️ **PlusPlan** – Sistema open source para **Plano de Manutenção, Operação e Controle (PMOC)**.
 - 📊 **OrcaServi** – Sistema próprio de **Orçamentos de Obras**, integrando bases como **SINAPI, ORSE, DNIT e outras**, com cálculos de composições e manipulação de dados utilizando **Python, Django e Pandas**.
 - ⚙️ **LCE** – Sistema particular que tem o objetivo de ajudar médicos e profissionais da saúde a passarem laudos cardiologicos**.
-- **Site desenvolvido** - https://www.engearfrio.com.br
-
-🧠 Atualmente curso **Pós-Graduação em Desenvolvimento de Sistemas com Python**, com foco em consolidar meus conhecimentos e construir minha jornada como desenvolvedor backend.
+- **Sistema em desenvolvimento** - https://app.lce.med.br/
 
 🎯 Busco unir a engenharia e a tecnologia, criando soluções que tragam eficiência, automação e inovação.
 
@@ -57,7 +55,7 @@ Atualmente, trabalho em três projetos principais:
 
 ---
 
-## 🚀 Projetos em Destaque (Próprio)
+## 🚀 Projetos em Destaque 
 
 - ⚙️ [**PlusPlan – PMOC Open Source**](https://github.com/lourival2021/PlusPlan) *(em desenvolvimento)*
 - 📊 [**OrcaServi – Sistema de Orçamento de Obras**](https://github.com/lourival2021/OrcaServi) *(em desenvolvimento)*

@@ -61,7 +61,7 @@ Atualmente, trabalho em três projetos principais:
 
 - ⚙️ [**PlusPlan – PMOC Open Source**](https://github.com/lourival2021/PlusPlan) *(em desenvolvimento)*
 - 📊 [**OrcaServi – Sistema de Orçamento de Obras**](https://github.com/lourival2021/OrcaServi) *(em desenvolvimento)*
-- [**LCE – Laudo Cardiologico Especializado**](https://github.com/Vortice-TI/LCE) *(em desenvolvimento)*
+- [**LCE – Laudo Cardiologico Especializado**](https://app.lce.med.br/) 
 
 ---
 
@@ -69,7 +69,7 @@ Atualmente, trabalho em três projetos principais:
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/lourival_silva_73818?tab=achievements)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:lourival_silva@msn.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/lourivaldasilvajúnior/)
+
 
 ---
 
